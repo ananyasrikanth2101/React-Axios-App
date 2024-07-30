@@ -22,26 +22,13 @@ The mock API used for this project is provided by [JSONPlaceholder](https://json
 - Bootstrap
 - CSS
 
-## Installation
+# Demo
+Deployed Link: https://anan-react-axios-app.netlify.app/
+
+### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ananyasrikanth2101/React-Axios-App.git
-
-2. Navigate to the project directory:
-
-```bash
-cd react-axios-task
-
-3. Install dependencies:
-
-```bash
-npm install
-
-4. Start the development server:
-
-```bash
-npm start
-
+git clone https://github.com/your-username/react-axios-task.git
 
