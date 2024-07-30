@@ -1,0 +1,17 @@
+.modal-header {
+  background-color: #007bff;
+  color: #0a0909;
+}
+
+.modal-title {
+  color: #f1cdee;
+}
+
+button {
+  transition: background-color 0.2s, color 0.2s;
+}
+
+button:hover {
+  background-color: #0056b3;
+  color: #f79e9e;
+}
