@@ -32,3 +32,8 @@ Deployed Link: https://anan-react-axios-app.netlify.app/
 ```bash
 git clone https://github.com/your-username/react-axios-task.git
 
+2. Navigate to the project directory:
+
+```bash
+cd react-axios-task
+
