@@ -1,8 +1,47 @@
-# React + Vite
+# React Axios Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application that performs CRUD operations on user data using Axios to interact with a mock API. The application allows users to add, edit, and delete user records. The UI is built using Bootstrap for a clean and responsive design.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display user data from a mock API.
+- Add new users.
+- Edit existing users.
+- Delete users.
+- Responsive design using Bootstrap.
+- Interactive UI with hover effects and color highlights.
+
+## Mock API
+
+The mock API used for this project is provided by [JSONPlaceholder](https://jsonplaceholder.typicode.com/users).
+
+## Technologies Used
+
+- React
+- Axios
+- Bootstrap
+- CSS
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ananyasrikanth2101/React-Axios-App.git
+
+2. Navigate to the project directory:
+
+```bash
+cd react-axios-task
+
+3. Install dependencies:
+
+```bash
+npm install
+
+4. Start the development server:
+
+```bash
+npm start
+
+
